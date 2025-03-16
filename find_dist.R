@@ -56,7 +56,7 @@ for (i in 1:nrow(edge_df)){
 }  
 map
 
-
-
+#add in red trips (between 300 and 600 miles)
+#add in cities in the list that are more than 600 miles from anywhere
 
 
